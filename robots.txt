@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /brand-strategy.html
-Sitemap: https://www.example.co.za/sitemap.xml
+Sitemap: https://911duplessis.github.io/Karoo-Kombuis-Website/sitemap.xml

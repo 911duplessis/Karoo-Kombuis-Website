@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- PLACEHOLDER domain: replace https://www.example.co.za with the final domain before launch -->
+<!-- Concept URLs on GitHub Pages: swap to the final domain at launch -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.example.co.za/</loc><priority>1.0</priority></url>
-  <url><loc>https://www.example.co.za/menu.html</loc><priority>0.8</priority></url>
-  <url><loc>https://www.example.co.za/contact.html</loc><priority>0.8</priority></url>
+  <url><loc>https://911duplessis.github.io/Karoo-Kombuis-Website/</loc><priority>1.0</priority></url>
+  <url><loc>https://911duplessis.github.io/Karoo-Kombuis-Website/menu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://911duplessis.github.io/Karoo-Kombuis-Website/contact.html</loc><priority>0.8</priority></url>
 </urlset>
