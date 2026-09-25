@@ -3,7 +3,7 @@
 A free **Insight Forge** website concept for **Karoo Kombuis**, a restaurant in Prince Albert, Western Cape.
 It is not a live site and has no affiliation with the restaurant unless the owners choose to go ahead.
 
-**Opportunity score: 85/100.** The restaurant has 241 TripAdvisor reviews averaging 4.5/5, and no owned website, domain or professional email.
+The restaurant has 241 TripAdvisor reviews averaging 4.5/5, and no owned website, domain or professional email.
 
 ## Structure
 
@@ -49,8 +49,8 @@ Local preview: `python3 -m http.server` → http://localhost:8000
 
 ## Before go-live checklist
 
-1. Replace `https://www.example.co.za` in canonical/OG tags, JSON-LD, `sitemap.xml` and `robots.txt`.
-2. Fill in the address, hours, menu, prices and WhatsApp number. Add `openingHoursSpecification` and `sameAs` (Facebook, TripAdvisor URLs) to the JSON-LD.
+1. Replace the GitHub Pages base URL (`https://911duplessis.github.io/Karoo-Kombuis-Website/`) with the final domain in canonical/OG tags, JSON-LD, `sitemap.xml` and `robots.txt`, and swap `assets/og-image.jpg` (the WhatsApp/Facebook link-preview card) for a real hero photo.
+2. Fill in the address, hours, menu and prices. (Restaurant WhatsApp 071 441 7882 is wired in; confirm it's the bookings number.) Add `openingHoursSpecification` and `sameAs` (Facebook, TripAdvisor URLs) to the JSON-LD.
 3. Swap every `.ph` placeholder for real, compressed photos (WebP, ~1600px wide max, descriptive `alt`). Add a 1200×630 `assets/og-image.jpg`.
 4. Connect the booking form (Formspree / Netlify Forms / Web3Forms) to the restaurant's inbox. Keep phone and WhatsApp as the primary CTAs.
 5. Remove the concept banner, the "Next steps" sections and the concept footer column.
