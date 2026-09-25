@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /brand-strategy.html
+Sitemap: https://www.example.co.za/sitemap.xml
